@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("Hello Git! Some Change");
 		
 		System.out.println("Continue making changes");
+		System.out.println("More changes from master!");
 	}
 
 }

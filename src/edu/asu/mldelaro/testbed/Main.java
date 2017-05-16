@@ -7,6 +7,7 @@ public class Main {
 		
 		System.out.println("Continue making changes");
 		System.out.println("More changes from master!");
+		System.out.println("More changes from master!");
 	}
 
 }

@@ -6,7 +6,6 @@ public class Main {
 		System.out.println("Hello Git! Another change from branch");
 		
 		System.out.println("Continue making changes");
-		System.out.println("More changes from master!");
 	}
 
 }
